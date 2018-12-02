@@ -1,0 +1,41 @@
+body{
+  background:#b0e0e6;
+}
+
+h1{
+  border: 1px solid black;
+}
+
+h2{
+  color:#75379b;
+}
+
+#itemone{
+  text-decoration: overline;
+  color:#75379b;
+}
+
+a[href]{
+  color:red;
+  ext-decoration: underline;
+}
+a:visited{
+  color:blue;
+}
+
+#textblock{
+  border: 5px solid gray;
+}
+
+div p{
+    background:#fffca5;
+}
+
+.exit{
+  background: blue;
+  border: 4px dashed  #e5df99;
+}
+
+input{
+  border: 2px solid #75379b;
+}
