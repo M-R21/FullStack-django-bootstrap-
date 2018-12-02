@@ -1,0 +1,36 @@
+h1{
+  font-family: 'Sedgwick Ave', cursive;
+  /* margin: auto; */
+  text-align: center;
+}
+table{
+  border: 1px solid white;
+  margin:auto;
+}
+
+td{
+  border:5px solid white;
+  height:300px;
+  width:120px;
+}
+
+#one{
+  background:#14080E;
+  /* border:1px solid red; */
+}
+
+#two{
+  background:#49475B;
+}
+
+#three{
+  background:#799496;
+}
+
+#four{
+  background:#ACC196;
+}
+
+#five{
+  background:#E9EB9E;
+}
