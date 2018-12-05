@@ -14,7 +14,7 @@ p{
   font-size:18px;
 }
 .inputLabel{
-  width:40%;
+  width:350px;
   height:25px;
 }
 #signUpButton{
@@ -26,4 +26,7 @@ p{
   background:#FF9F1C;
   margin-top: 10px;
   margin-bottom: 5px;
+}
+#signUpButton:hover{
+  border: 3px solid white;
 }
